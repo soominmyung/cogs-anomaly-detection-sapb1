@@ -123,9 +123,3 @@ See: `queries/corrected_profitability.sql`
 - Data in this repository is anonymised and simplified.  
 - The SQL files are pseudocode designed to reflect the analytical workflow.  
 - The landed cost SQL is maintained in a separate repo linked above.
-
----
-
-## 📄 License
-
-MIT (or another license of your choice).
